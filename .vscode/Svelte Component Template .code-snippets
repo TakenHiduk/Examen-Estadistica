@@ -1,0 +1,21 @@
+{
+  "Svelte Component Template": {
+    "prefix": "s-component 👌",
+    "body": [
+      "<script lang=\"ts\" context=\"module\">",
+      "</script>",
+      "",
+
+      "<script lang=\"ts\">",
+      "</script>",
+      "",
+
+      "<span>Welcome to $1</span>",
+      "",
+
+      "<style lang=\"scss\" scoped>",
+      "</style>"
+    ],
+    "description": "Svelte Component 👌"
+  }
+}
